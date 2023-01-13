@@ -4,7 +4,6 @@ tagline: Small github introduction
 description: Sharon Saronian's special README
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
-google-site-verification: Rzl-yxIn9SrUoXePOYJMIzXv3Wm4dywXSnvRJBSJStg
 plugins:
   - jekyll-seo-tag
 
